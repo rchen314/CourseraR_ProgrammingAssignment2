@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 
 ## Create a matrix that can cache its inverse.  Stores cached value in 
 ## global environment variable i.
